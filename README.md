@@ -1,6 +1,6 @@
 INSTALLATION:
 =============
-Please remember to backup all files AND database before you update anything!
+
 FRESH INSTALL INSTRUCTIONS ONLY!!!!
 
 THERE IS NO INSTALLER REQUIRED!
