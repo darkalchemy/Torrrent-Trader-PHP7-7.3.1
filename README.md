@@ -12,7 +12,6 @@ Torrrent Trader PHP7 7.3.1
 3) Edit the file backend/mysql.php to suit your MYSQL connection
 
 4) Edit the file backend/config.php to suit your needs
-- special note should be taken for urls, emails, paths (use check.php if unsure)
 
 5) Apply the following CHMOD's
 777 - cache/
